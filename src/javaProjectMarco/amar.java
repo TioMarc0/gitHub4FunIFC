@@ -12,8 +12,6 @@ public class amar {
 		}else if ("não" .equalsIgnoreCase(amar)) {
 			System.out.println("A Ana ama o Marco sim");
 			ent.close();
-			
-			//teste github IFC estagiários
 		}
 		
 				
